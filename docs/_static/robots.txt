@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peacocktvhelpdocs.readthedocs.io/sitemap.xml
